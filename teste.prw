@@ -1,5 +1,5 @@
 User function teste1()
 
-Alert("oi")
+Alert("oi-alterado")
 
 Return
